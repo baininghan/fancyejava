@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="fancyejava"
+  id="myeclipse.1461664524597"
+  context-root="/fancyejava"
+  j2ee-spec="6.0"
+  archive="fancyejava.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
